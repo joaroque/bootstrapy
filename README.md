@@ -66,7 +66,7 @@ Output:
 
 And what is the use of those labels?\
 I have been using these labels in projects as a minimal output schema.\
-If some error occured in your program or something else bad happened you don't need to print the whole line in red. With hue, you can simply do this
+If some error occured in your program or something else bad happened you don't need to print the whole line in red. With Bootstrapy, you can simply do this
 
 ```python
 print(Strapy.BAD+ "Lorem ipsum dolor sit amet" + Strapy.END)
